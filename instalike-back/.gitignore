@@ -131,3 +131,6 @@ dist
 
 # chave api
 chave-api.txt
+
+# credencias mongodb
+mongodb.txt
