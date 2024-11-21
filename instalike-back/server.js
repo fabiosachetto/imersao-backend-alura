@@ -3,8 +3,6 @@ import routes from "./src/routes/paratyImagesRoute.js";
 
 const app = express();
 routes(app);
-// **Cria uma instância do Express, que é o framework web utilizado para criar o servidor.**
-// O objeto `app` representa a aplicação Express.
 
 // **Inicia o servidor na porta 3000.**
 // A função `listen` inicia o servidor e escuta por requisições na porta 3000.
