@@ -137,3 +137,9 @@ mongodb.txt
 
 # videos das aulas
 video-aulas/
+
+# Plataforma de API
+Postman/
+
+# imagens inseridas pelo banco
+uploads
